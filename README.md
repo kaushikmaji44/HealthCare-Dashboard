@@ -20,3 +20,7 @@ The **Patients___Wait_Time_5_table_1 table details average wait times by hour**,
 Lastly, the <u>**Dashboard_6_table_1 table consolidates monthly average PSAT scores and patient counts, showing a consistent average PSAT score around 4.29 and varying patient counts, peaking at 9201**<u>.
 
 Overall, the dataset provides valuable insights into patient demographics, satisfaction, and operational metrics, essential for healthcare management and improvement.
+
+
+![image](https://github.com/user-attachments/assets/881d22ba-2a8d-45cf-9d81-4d3b9b801f2d)
+
