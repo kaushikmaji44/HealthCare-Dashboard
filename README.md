@@ -1,7 +1,8 @@
 # HealthCare-Dashboard
-About the dataset
+ **About the dataset**
+ 
 The Healthcare Dashboard dataset provides a comprehensive overview of patient data across various departments and time periods. The dataset is divided into multiple tables, each focusing on different aspects of healthcare metrics.
-
+ 
 The Raw_0_table_1 includes 13 columns such as date, patient_id, patient_gender, patient_age, patient_sat_score, patient_race, and department_referral. Key statistics reveal an average patient age of approximately 39.86 years and a mean satisfaction score of 5.17. The first five entries show a diverse patient demographic with varying ages and satisfaction scores, primarily referred to the Emergency department.
 
 The Hospital_Data_1_table_1 mirrors the structure of the raw data but includes additional columns like Month, Year, day_of_week, and Time Range. The average patient satisfaction score here is slightly lower at 4.31, with a similar average wait time of 35.26 minutes.
